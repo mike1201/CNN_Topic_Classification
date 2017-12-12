@@ -1,5 +1,5 @@
 1. I Summarize the structure of whole code in "Structure_of_whole_code"
-   So I recommend reference this.
+   So I recommend you to refer it.
 
 2. Before implementing this code, You should download glove matrix
    from https://nlp.stanford.edu/projects/glove/
